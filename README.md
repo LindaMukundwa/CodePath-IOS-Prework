@@ -2,7 +2,7 @@
 
 Submitted by: **Linda Mukundwa*
 
-**Name of your app** is an app to submit as prework and play with some IOS functionality
+**Linda_M_iOS_Prework** is an app to submit as prework and play with some IOS functionality
 
 Time spent: **3** hours spent in total
 
